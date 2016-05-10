@@ -15,21 +15,15 @@ body {
 }
 
 #navbar{
-  padding-top: 13px;
-}
-
-#myCarousel{
-  padding-top: none;
+/*  padding-top: 13px;*/
 }
 
 #section1{
   margin-left: 100px;
   margin-right: 100px;
-  background-color: #60A8B;
+  background-color: #60A8B7;
   color: white;
-  height: 700px;
-  padding-left: 25px;
-  padding-right: 25px;
+  height: 300px;
 }
 
 
@@ -142,7 +136,7 @@ body {
     width: 1170px;
   }
 }
-/*
+
 #thumb {
   background-color: white;
   border: solid 1px #EEEEEE;
@@ -153,4 +147,4 @@ body {
 .thumb-child {
   padding-top: 35px;
   height: 300px;
-}*/
+}

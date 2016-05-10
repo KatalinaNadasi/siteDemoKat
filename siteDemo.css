@@ -3,8 +3,9 @@ a{
   color:#333; 
 }
 
-*{
+* {
   font-family : 'Raleway', sans-serif;
+  font-size: 62,5%;
 }
 
 body {
@@ -17,6 +18,15 @@ body {
   padding-top: 13px;
 }
 
+
+
+
+
+
+
+
+
+/*
 #section1{
   margin-left: 100px;
   margin-right: 100px;
@@ -60,8 +70,8 @@ body {
   height: 300px;
 }
 
-.headersection2{
-/*  border-bottom: 1px solid grey;*/
+.headersection2{*/
+/*  border-bottom: 1px solid grey;
   padding-top: 65px;
   color: white;
   height: 300px;
@@ -108,7 +118,7 @@ body {
 }
 
 
-
+*/
 
 
 

@@ -59,7 +59,7 @@ body {
 }
 
 #section3 {
-  height: 200px;
+  height: 150px;
   background-color: pink;
 }
 
@@ -80,7 +80,34 @@ body {
   height: 230px;
 }
 
+#section4{
+  height: 150px;
+  background-color: green;
+}
 
+#section4row1 {
+  height: 100px;
+  background-color: pink;
+}
+
+#section4row2 {
+  height: 100px;
+}
+
+#section4row3 {
+  height: 100px;
+  background-color: blue;
+}
+
+#section5 {
+  height: 150px;
+  background-color: white;
+}
+
+#footer {
+  height: 50px;
+  background-color: red;
+}
 
 
 /*

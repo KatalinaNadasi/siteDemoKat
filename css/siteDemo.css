@@ -15,8 +15,9 @@ body {
 }
 
 #navbar{
-/*  padding-top: 13px;*/
+  padding-top: 10px;
 }
+
 
 #section1{
   margin-left: 100px;
@@ -37,14 +38,14 @@ body {
 #section1row2 {
   margin-left: 100px;
   margin-right: 100px;
-  background-color: pink;
+  background-color: #A8CEBD;
   height: 200px;
 }
 
 #section1row3 {
   margin-left: 100px;
   margin-right: 100px;
-  background-color: yellow;
+  background-color: #8592BA;
   height: 200px;
 }
 
@@ -60,7 +61,7 @@ body {
 
 #section3 {
   height: 200px;
-  background-color: pink;
+  background-color: #8592BA;
 }
 
 .feature2 {
@@ -78,6 +79,16 @@ body {
 .thumb-child {
   padding-top: 35px;
   height: 230px;
+}
+
+#section4 {
+  height: 200px;
+  background-color: #8592BA;
+}
+
+#section5 {
+  height: 200px;
+  background-color: white;
 }
 
 

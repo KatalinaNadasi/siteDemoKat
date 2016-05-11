@@ -23,7 +23,35 @@ body {
   margin-right: 100px;
   background-color: #60A8B7;
   color: white;
-  height: 300px;
+  height: 200px;
+}
+
+#section1row1 {
+  margin-left: 100px;
+  margin-right: 100px;
+  background-color: black;
+  color: white;
+  height: 200px;
+}
+
+#section1row2 {
+  margin-left: 100px;
+  margin-right: 100px;
+  background-color: pink;
+  height: 200px;
+}
+
+#section1row3 {
+  margin-left: 100px;
+  margin-right: 100px;
+  background-color: yellow;
+  height: 200px;
+}
+
+.feature {
+  border-right: solid 1px grey;
+  padding-top: 35px;
+  height: 200px;
 }
 
 
@@ -139,7 +167,7 @@ body {
 
 #thumb {
   background-color: white;
-  border: solid 1px #EEEEEE;
+  border: solid 1px black;
   margin-left: 100px;
   margin-right: 100px;
 }

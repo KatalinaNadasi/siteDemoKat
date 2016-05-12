@@ -10,14 +10,27 @@ a{
 
 body {
   margin: 0;
-  background: url('pics/background.png');
+/*  background: url('pics/background.png');*/
   background-size: 1440px 800px;
 }
 
 #navbar{
   padding-top: 10px;
+  background-color: #FFFFFF;
 }
 
+#myCarousel{
+
+}
+
+#carousel-caption{
+
+}
+
+#buttonstyle {
+  width: 100px;
+  height: 35px;
+}
 
 #section1{
   margin-left: 100px;
@@ -56,6 +69,7 @@ body {
 }
 
 #section2 {
+  font-family: 'Inconsolata';
   height: 300px;
 }
 

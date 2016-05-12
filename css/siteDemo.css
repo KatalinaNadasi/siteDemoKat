@@ -15,7 +15,9 @@ body {
 }
 
 #navbar{
-/*  padding-top: 13px;*/
+  padding-top: 10px;
+  background-color: white;
+/*  background-color: white;*/
 }
 
 #section1{

@@ -21,6 +21,16 @@ body {
 /*  background-color: white;*/
 }
 
+#banner {
+  color: red;
+}
+
+#logo{
+  width:40px;
+  height:40px;
+  max-width: 100%;
+}
+
 #section1{
   margin-left: 100px;
   margin-right: 100px;

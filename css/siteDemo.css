@@ -21,7 +21,7 @@ body {
 /*  background-color: white;*/
 }
 
-#banner {
+.banner1 {
   color: red;
 }
 
@@ -31,15 +31,7 @@ body {
   max-width: 100%;
 }
 
-#section1{
-  margin-left: 100px;
-  margin-right: 100px;
-  background-color: #60A8B7;
-  color: black;
-  height: 200px;
-}
-
-#section1row1 {
+#section2{
   margin-left: 100px;
   margin-right: 100px;
   background-color: black;
@@ -47,45 +39,61 @@ body {
   height: 200px;
 }
 
-#section1row2 {
+#section2row1 {
+  background-color: #F3F3F3;
+  color: #444444;
+  height: 200px;
+}
+
+#sectionResume {
   margin-left: 100px;
-  margin-right: 100px;
-  background-color: pink;
+  margin-right: 120px;
+}
+
+#section1row2 {
+  background-color: #F3F3F3;
   height: 200px;
 }
 
 #section1row3 {
-  margin-left: 100px;
-  margin-right: 100px;
-  background-color: yellow;
+  background-color: #F3F3F3;
   height: 200px;
 }
 
 .feature {
-  border-right: solid 1px grey;
+  border-right: solid 1px #E3E3E3;
   padding-top: 35px;
   height: 200px;
 }
 
-#section2 {
+#sectionHi {
   height: 300px;
 }
 
 #section3 {
   height: 150px;
-  background-color: pink;
+  background-color: black;
+  color: #F3F3F3;
 }
 
 .feature2 {
-  border-right: solid 1px grey;
-  height: 230px;
+/*  border-right: solid 1px #E3E3E3;*/
+  height: 100%;
+  padding-right: 25px;
+}
+
+#thumbStyle{
+  background-color: #F3F3F3;
+  width: 100%;
 }
 
 #thumb {
   background-color: white;
-  border: solid 1px grey;
+  border: solid 1px #E3E3E3;
   margin-left: 100px;
   margin-right: 100px;
+  padding-left: 30px;
+  padding-right: 30px;
 }
 
 .thumb-child {
@@ -95,31 +103,33 @@ body {
 
 #section4{
   height: 150px;
-  background-color: green;
+  background-color: black;
+  color: white;
 }
 
 #section4row1 {
   height: 100px;
-  background-color: pink;
+  background-color: #E3E3E3;
 }
 
 #section4row2 {
   height: 100px;
+  background-color: white;
 }
 
 #section4row3 {
   height: 100px;
-  background-color: blue;
+  background-color: #E3E3E3;
 }
 
 #section5 {
   height: 150px;
-  background-color: white;
+  background-color: ;
 }
 
 #footer {
   height: 50px;
-  background-color: red;
+  background-color: ;
 }
 
 

@@ -237,3 +237,8 @@ body {
     width: 1170px;
   }
 }
+
+@media (max-width: @screen-xs-max) { 500 }
+@media (min-width: @screen-sm-min) and (max-width: @screen-sm-max) { 750 }
+@media (min-width: @screen-md-min) and (max-width: @screen-md-max) { 970 }
+@media (min-width: @screen-lg-min) { 1170 }

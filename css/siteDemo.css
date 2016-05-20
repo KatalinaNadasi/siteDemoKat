@@ -1,12 +1,8 @@
+/*ALL*/
+
 a{ 
   text-decoration:none; 
   color:#333; 
-}
-
-* {
-
-/*  font-family: 'Inconsolata';*/
- /* font-size: 62,5%;*/
 }
 
 body {
@@ -15,6 +11,8 @@ body {
   background-size: 1440px 800px;
   font-family : 'Raleway', sans-serif;
 }
+
+/*NAVIGATION*/
 
 #navbar {
   padding-top: 10px;
@@ -32,12 +30,10 @@ body {
   background-color: #646464 !important;
 }
 
+/*HEADER*/
 
-
-
-
-.banner1 {
-  color: red;
+.header {
+  padding: 140px 0 60px 0;
 }
 
 #logo{
@@ -146,94 +142,6 @@ body {
   height: 50px;
   background-color: ;
 }
-
-
-/*
-
-#pSection1{
-  margin-left: 100px;
-  margin-right: 100px;
-  background-color: white;
-}
-
-#border_middle{
-  border-right: 1px solid #EEEEEE;
-  padding-top: 55px;
-  padding-bottom: 55px;
-}
-
-#section2 {
-  background-color: #7E7A9E;
-  padding-top: 65px;
-  color: white;
-  height: 200px;
-}
-
-#section2text {
-   background-color: #7E7A9E;
-   padding-top: 30px;
-   padding-bottom: 30px;
-   color: white;
-}
-
-#section3 {
-  margin-left: 100px;
-  margin-right: 100px;
-  padding-top: 35px;
-  padding-bottom:250px;
-  background-color: white;
-  height: 300px;
-}
-
-.headersection2{*/
-/*  border-bottom: 1px solid grey;
-  padding-top: 65px;
-  color: white;
-  height: 300px;
-}
-
-#icon1 {
-  color: #C2BEDD;
-}
-
-#icon2 {
-  color: #60A8B7;
-}
-
-#icon3 {
-  color: #A8CEBD;
-}
-
-#learn_more {
-  background-color: white;
-  border: solid 1px #EEEEEE;
-  border-left: solid 1px #EEEEEE;
-  border-right: solid 1px #EEEEEE;
-  margin-left: 100px;
-  margin-right: 100px;
-  padding-top: 30px;
-  height: 100px;
-}
-
-#section4 {
-  background-color:#8592BA;
-  padding-top: 55px;
-  padding-left: 120px;
-  padding-right: 120px;
-  height: 300px;
-  color: white;
-}
-
-#section5 {
-  background-color: white;
-  margin-left: 100px;
-  margin-right: 100px;
-  padding-top: 35px;
-  height: 350px;
-}
-
-
-*/
 
 
 

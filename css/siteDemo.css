@@ -170,13 +170,36 @@ p, h1 {
 
 
 @media (min-width: 768px) {
-  .container {
-    width: 750px;
+
+  .header {
+    text-align: center;
+    padding-top: 20%;
   }
+
+  .header h1 {
+    font-size: 5em;
+  }
+
+  .header p {
+    font-size: 1em;
+  }
+
+  .header .btn {
+    padding: 5px 12px 5px 12px;
+  }
+
+  .header img {
+    padding-top: 10%;
+  }
+
+
+
+
 }
 @media (min-width: 992px) {
-  .container {
-    width: 970px;
+
+  .header h1 {
+    font-size: 5em;
   }
 }
 @media (min-width: 1200px) {

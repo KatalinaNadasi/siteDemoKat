@@ -65,7 +65,7 @@ p, h1 {
   padding: 5px 50px 5px 50px;
 }
 
-/*ABOUT*/
+/*STUDIES*/
 
 .about {
   padding: 100px 0 100px;
@@ -81,6 +81,14 @@ p, h1 {
 .about p {
   padding-bottom: 25px;
 }
+
+.about #img {
+  width:100px;
+  height:100px;
+  max-width: 100%;
+}
+
+/*SKILLS*/
 
 
 

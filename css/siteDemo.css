@@ -124,10 +124,18 @@ p, h1 {
   padding-bottom: 25px;
 }
 
+.press .press-logo li img #press{
+  background-color: blue;
+  opacity: 0.5;
+  padding-bottom: 25px;
+  width:250px;
+  height:180px;
+  max-width: 100%;
+}
+
 .press .press-logo li:hover img {
   opacity: 1;
 }
-
 
 
 

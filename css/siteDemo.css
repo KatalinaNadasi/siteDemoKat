@@ -107,6 +107,48 @@ p, h1 {
 }
 
 /*PRESS*/
+.certifs {
+  padding: 90px 0 90px;
+  text-align: center;
+}
+
+.certifs h1 {
+  font-size: 1.8em;
+  padding-bottom: 25px;
+  color: #FF3759;
+}
+
+.certifs .press-logo li img {
+  opacity: 0.5;
+  padding-bottom: 25px;
+}
+
+.certifs .press-logo li img {
+  background-color: blue;
+  opacity: 0.5;
+  padding-bottom: 25px;
+  width:250px;
+  height:180px;
+  max-width: 100%;
+}
+
+.certifs .press-logo li:hover img {
+  opacity: 1;
+}
+
+.certifs {
+  padding: 90px 0 90px;
+  text-align: center;
+}
+
+
+
+
+
+
+
+
+
 
 .press {
   padding: 90px 0 90px;
@@ -137,7 +179,10 @@ p, h1 {
   opacity: 1;
 }
 
-
+.sites {
+  padding: 90px 0 90px;
+  text-align: center;
+}
 
 
 

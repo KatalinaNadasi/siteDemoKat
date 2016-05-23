@@ -143,8 +143,7 @@ p, h1 {
   padding-bottom: 25px;
 }
 
-.press .press-logo li img #press{
-  background-color: blue;
+.press .press-logo li img #press {
   opacity: 0.5;
   padding-bottom: 25px;
   width:250px;
@@ -161,8 +160,23 @@ p, h1 {
   text-align: center;
 }
 
+/*SCREENSHOTS*/
 
+.screenshots {
+  background-color: #143B40;
+  padding: 90px 0 90px;
+  text-align: center;
+  color: white;
+}
 
+.screenshots img {
+  background-color:;
+  padding: 20px 0 30px;
+}
+
+.screenshots h1 {
+  font-size: 2em;
+}
 
 
 

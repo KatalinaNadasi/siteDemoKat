@@ -40,6 +40,7 @@ p, h1 {
   background-color: #646464 !important;
 }
 
+
 /*HEADER*/
 
 .header {
@@ -67,22 +68,22 @@ p, h1 {
 
 /*STUDIES*/
 
-.about {
+.studies {
   padding: 100px 0 100px;
   text-align: center;
 }
 
-.about h1 {
+.studies h1 {
   font-size: 1.8em;
   color: black;
   padding: 0 0 25px;
 }
 
-.about p {
+.studies p {
   padding-bottom: 25px;
 }
 
-.about #img {
+.studies #img {
   width:100px;
   height:100px;
   max-width: 100%;

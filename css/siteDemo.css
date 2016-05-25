@@ -69,18 +69,28 @@ p, h1 {
 /*STUDIES*/
 
 .studies {
-  padding: 100px 0 100px;
+  padding: 50px 0 100px;
   text-align: center;
 }
 
 .studies h1 {
-  font-size: 1.8em;
-  color: black;
-  padding: 0 0 25px;
+  font-size: 2em;
+  color: #242424;
+  padding: 0 0 50px;
 }
 
 .studies p {
+  padding-top: 25px;
   padding-bottom: 25px;
+  font-size: 0.9em;
+}
+
+.studies em {
+  color: #242424;
+}
+
+.studies a {
+  text-decoration: none;
 }
 
 .studies #img {
@@ -204,7 +214,7 @@ p, h1 {
 .footer {
   background-color: #143B40;
   color: white;
-  padding: 30px 0 30px;
+  padding: 30px 0;
 }
 
 .footer .fa {
@@ -216,7 +226,10 @@ p, h1 {
   font-size: 1.5em;
 }
 
-
+.ending {
+  background-color: #242424;
+  margin-bottom: none;
+}
 
 
 

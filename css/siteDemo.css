@@ -115,12 +115,16 @@ p, h1 {
 }
 
 .skills img {
-  padding: 45px 0 35px;
+  padding: 35px 0 35px;
 }
 
 .skills p {
   font-size: 1;
-  padding-bottom: 14px;
+  padding-bottom: 25px;
+}
+
+.skills em {
+  font-size: 1.5em;
 }
 
 /*PRESS*/

@@ -111,10 +111,16 @@ p, h1 {
 .skills h1 {
   font-size: 2em;
   padding-bottom: 25px;
+  color: #FF3759;
 }
 
-.features img {
-  padding: 15px 0 35px;
+.skills img {
+  padding: 45px 0 35px;
+}
+
+.skills p {
+  font-size: 1;
+  padding-bottom: 14px;
 }
 
 /*PRESS*/

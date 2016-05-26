@@ -27,13 +27,13 @@ p, h1 {
 
 #navbar {
   padding-top: 10px;
-  background-color: #242424;
+  background-color: #242424; /*gris*/
   border-bottom: 1px solid #b9b9b9;
   font-family: 'Lato', sans-serif;
 }
 
 #navbar a {
-  color: #F7EBDF !important;
+  color: #F7EBDF !important; /*creme*/
 }
 
 #navbar a:hover {
@@ -60,7 +60,7 @@ p, h1 {
 
 .header p {
   color: #F7EBDF; /*creme*/
-  font-size: 1.8em;
+  font-size: 1.6em !important;
 }
 
 .header .btn {
@@ -81,6 +81,10 @@ p, h1 {
   padding: 0 0 50px;
 }
 
+.studies h4 {
+  color: grey;
+}
+
 .studies p {
   padding-top: 25px;
   padding-bottom: 25px;
@@ -88,7 +92,7 @@ p, h1 {
 }
 
 .studies em {
-  color: #242424;
+  color: grey;
 }
 
 .studies a {

@@ -46,7 +46,7 @@ p, h1 {
 
 .header {
   padding: 140px 0 0 0;
-  background-color: #143B40;
+  background-color: #143B40; vert
   background-size: cover;
   width: 100%;
 /*  border-bottom: 2px solid #c9c9c9;*/
@@ -145,8 +145,8 @@ p, h1 {
 }
 
 .press h1 {
-  font-size: 1.8em;
-  padding-bottom: 25px;
+  font-size: 2.5em;
+  padding-bottom: 35px;
   color: #242424;
 }
 
@@ -155,9 +155,9 @@ p, h1 {
   padding-bottom: 25px;
 }
 
-.press .certifs-logo li img {
-  opacity: 0.5;
-  padding-bottom: 25px;
+.press .certifs-logo p {
+  width:250px;
+  height:180px;
 }
 
 .press .certifs-logo li:hover img {

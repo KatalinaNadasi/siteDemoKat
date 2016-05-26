@@ -1,5 +1,6 @@
 /*ALL*/
 
+
 a{ 
   text-decoration:none; 
   color:#333; 
@@ -98,6 +99,7 @@ p, h1 {
   width:100px;
   height:100px;
   max-width: 100%;
+  box-shadow: 2px 2px 3px grey;
 }
 
 /*SKILLS*/

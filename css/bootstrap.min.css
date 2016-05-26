@@ -6,9 +6,9 @@
 /*# sourceMappingURL=bootstrap.min.css.map */
 
 .btn-trans { 
-  color: #F7EBDF; 
-  background-color: #F54051; 
-  border-color: #F54051; 
+  color: #F7EBDF; /*creme*/
+  background-color: #242424; /*anthracite*/
+  border-color: #242424; 
 } 
  
 .btn-trans:hover, 
@@ -16,9 +16,9 @@
 .btn-trans:active, 
 .btn-trans.active, 
 .open .dropdown-toggle.btn-trans { 
-  color: #F54051 !important; 
+  color: #F7EBDF !important; 
   background-color: transparent; 
-  border-color: #F54051; 
+  border-color: #242424; 
 } 
  
 .btn-trans:active, 

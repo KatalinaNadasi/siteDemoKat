@@ -6,9 +6,9 @@
 /*# sourceMappingURL=bootstrap.min.css.map */
 
 .btn-trans { 
-  color: white; 
-  background-color: #FF3759; 
-  border-color: #FF3759; 
+  color: #F7EBDF; 
+  background-color: #F54051; 
+  border-color: #F54051; 
 } 
  
 .btn-trans:hover, 
@@ -16,9 +16,9 @@
 .btn-trans:active, 
 .btn-trans.active, 
 .open .dropdown-toggle.btn-trans { 
-  color: #FF3759 !important; 
+  color: #F54051 !important; 
   background-color: transparent; 
-  border-color: #FF3759; 
+  border-color: #F54051; 
 } 
  
 .btn-trans:active, 
@@ -42,11 +42,11 @@ fieldset[disabled] .btn-trans:active,
 .btn-trans.disabled.active, 
 .btn-trans[disabled].active, 
 fieldset[disabled] .btn-trans.active { 
-  background-color: #FF3759; 
-  border-color: #FF3759; 
+  background-color: #F54051; 
+  border-color: #F54051; 
 } 
  
 .btn-trans .badge { 
-  color: #FF3759; 
-  background-color: #FF3759; 
+  color: #F54051; 
+  background-color: #F54051; 
 }

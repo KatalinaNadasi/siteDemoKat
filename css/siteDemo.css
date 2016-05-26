@@ -32,7 +32,7 @@ p, h1 {
 }
 
 #navbar a {
-  color: #cccccc !important;
+  color: #F7EBDF !important;
 }
 
 #navbar a:hover {
@@ -52,13 +52,13 @@ p, h1 {
 }
 
 .header h1 {
-  color: #FF3759;
+  color: #F54051;
   font-family: 'Pacifico', cursive;
   font-size: 7.5em;
 }
 
 .header p {
-  color: white;
+  color: #F7EBDF;
   font-size: 1.3em;
 }
 
@@ -71,6 +71,7 @@ p, h1 {
 .studies {
   padding: 50px 0 100px;
   text-align: center;
+  background-color: #F7EBDF;
 }
 
 .studies h1 {
@@ -104,14 +105,14 @@ p, h1 {
 .skills {
   background-color: #143B40;
   text-align: center;
-  color: white;
+  color: #F7EBDF;
   padding: 90px 0 90px;
 }
 
 .skills h1 {
   font-size: 2em;
   padding-bottom: 25px;
-  color: #FF3759;
+  color: #F54051;
 }
 
 .skills img {
@@ -132,12 +133,13 @@ p, h1 {
 .press {
   padding: 90px 0 90px;
   text-align: center;
+  background-color: #F7EBDF;
 }
 
 .press h1 {
   font-size: 1.8em;
   padding-bottom: 25px;
-  color: #FF3759;
+  color: #F54051;
 }
 
 .press .certifs-logo li img {
@@ -187,7 +189,7 @@ p, h1 {
   background-color: #143B40;
   padding: 90px 0 90px;
   text-align: center;
-  color: white;
+  color: #F7EBDF;
 }
 
 .screenshots img {
@@ -203,6 +205,7 @@ p, h1 {
 .contact {
   padding: 100px 0 100px;
   text-align: center;
+  background-color: #F7EBDF;
 }
 
 .contact h1 {
@@ -223,12 +226,12 @@ p, h1 {
 
 .footer {
   background-color: #143B40;
-  color: white;
+  color: #F7EBDF;
   padding: 30px 0;
 }
 
 .footer .fa {
-  color: #FF3759;
+  color: #F54051;
 }
 
 .footer h1 {

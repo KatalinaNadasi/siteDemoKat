@@ -136,59 +136,57 @@ p, h1 {
   font-size: 1.5em;
 }
 
-/*PRESS*/
+/*CERTIFICATIONS*/
 
-.press {
-  padding: 90px 0 90px;
+.certifications {
   text-align: center;
   background-color: #F7EBDF;
 }
 
-.press h1 {
-  font-size: 2.5em;
-  padding-bottom: 35px;
+.certifications h4 {
+  font-size: 2.3em;
+  padding-bottom: 5px;
+  margin-top: none;
   color: #242424;
 }
 
-.press .certifs-logo li img {
+.certifs-logo {
+  padding: 0 85px 0 0;
+}
+
+.certifications .certifs-logo li img {
   opacity: 0.5;
   padding-bottom: 25px;
 }
 
-.press .certifs-logo p {
-  width:250px;
-  height:180px;
+.certifications .certifs-logo p {
+  width:220px;
+  height:20px;
 }
 
-.press .certifs-logo li:hover img {
+.certifications .certifs-logo li:hover img {
   opacity: 1;
 }
 
-.press {
-  padding: 90px 0 90px;
+.certifications {
+  padding: 0 0 35px;
   text-align: center;
 }
 
-.press .press-logo  img {
+
+.certifications .certifications-logo  img {
   opacity: 0.5;
-  padding-bottom: 25px;
 }
 
-.press .press-logo li img #press {
+.certifications .certifications-logo li img #press {
   opacity: 0.5;
-  padding-bottom: 25px;
   width:250px;
   height:180px;
   max-width: 100%;
 }
 
-.press .press-logo li:hover img {
+.certifications .certifications-logo li:hover img {
   opacity: 1;
-}
-
-.sites {
-  padding: 90px 0 90px;
-  text-align: center;
 }
 
 /*SCREENSHOTS*/

@@ -200,6 +200,8 @@ p, h1 {
 
 .screenshots img {
   padding: 20px 0 30px;
+  height:550px;
+  width: 430px;
 }
 
 .screenshots h1 {

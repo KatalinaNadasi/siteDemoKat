@@ -173,7 +173,6 @@ p, h1 {
 }
 
 .certifications {
-  padding: 0 0 35px;
   text-align: center;
 }
 
@@ -207,9 +206,9 @@ p, h1 {
 }
 
 .screenshots img {
-  padding: 20px 0 30px;
-  height:550px;
-  width: 430px;
+  padding: 20px 0 5px;
+  height:450px;
+  width: 300px;
 }
 
 .screenshots h1 {

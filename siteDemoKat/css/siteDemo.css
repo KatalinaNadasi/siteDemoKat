@@ -8,8 +8,8 @@ a{
 
 body {
   margin: 0;
-  background: url('pics/background.png');
-  background-size: 1440px 800px;
+  background: url('pics/background.png') no-repeat center fixed;
+  background-size: cover;
   font-family : 'Raleway', sans-serif;
 }
 
@@ -254,7 +254,11 @@ p, h1 {
   text-align: center;
 }
 
-
+@media (min-width: 768px) {
+  .container{
+    width: 100%;
+  }
+}
 
 @media (min-width: 768px) {
 
